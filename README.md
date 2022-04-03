@@ -12,10 +12,10 @@ Eu tenho 20 anos, originalmente de São Paulo/SP, mas morando atualmente em Biri
 <br />
 <br />
 <div display="inline-block">
- <p align="left">🔭 Atualmente estou trabalhando no projeto de Iniciação Científica Audire.;</p>
+ <p align="left">🔭 Atualmente estou trabalhando no projeto de Iniciação Científica Audire;</p>
  <p align="left">📚 Atualmente estou aprendendo React.js e PHP;</p>
  <p align="left">📷 Ajudando a abertura da empresa júnior da faculdade e ocupando a posição<br />
-    de diretor de projetos</p>
+    de diretor de projetos;</p>
  <p align="left">� Algumas curiosidades sobre mim é que adoro ver animes :movie_camera:, sair com<br />
     os meus amigos:dancers: e claro programar enquanto ouço uma boa música:musical_note:</p>
  <p align="left">💬 Entre em contato comigo pelo meu email: matheuss.fukuyama@gmail.com<br />
