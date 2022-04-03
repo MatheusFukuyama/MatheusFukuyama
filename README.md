@@ -8,12 +8,18 @@ Eu tenho 20 anos, originalmente de São Paulo/SP, mas morando atualmente em Biri
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="height: 50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="height: 50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height: 50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height: 50px"/>
 
+
+<br />
+<br />
 - 🔭 Atualmente estou trabalhando no projeto de Iniciação Científica Audire.
 - 🌱 Atualmente estou aprendendo React.js e PHP.
-- 👯 Ajudando a abertura da empresa júnior da faculdade e ocupando a posição de diretor de projetos.
-- �:heart: Algumas curiosidades sobre mim é que adoro ver animes :movie_camera:, sair com os meus amigos:dancers: e claro programar
+- 👯 Ajudando a abertura da empresa júnior da faculdade e ocupando a posição 
+     de diretor de projetos.
+- �:heart: Algumas curiosidades sobre mim é que adoro ver animes :movie_camera:, sair com
+    os meus amigos:dancers: e claro programar
      enquanto ouço uma boa música:musical_note:.
-- 💬 Pergunte-me sobre ...
+- 💬 Entre em contato comigo pelo meu email: matheuss.fukuyama@gmail.com ou pelo 
+     meu whatsapp: (11) 95946-8256.
  
           
  ### Contatos:
