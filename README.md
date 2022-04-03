@@ -3,11 +3,6 @@
 
 Eu tenho 20 anos, originalmente de São Paulo/SP, mas morando atualmente em Birigui/SP. Estou cursando o curso de engenharia da computação no IFSP (Instituo Federal de São Paulo). Estudo Desenvolvimento Web a mais de um ano e adoro desenvolver novos projetos.
 
-<div>
-<a href="https://github.com/MatheusFukuyama">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFukuyama&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFukuyama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ### Ferramentas e Tecnologias
 
@@ -28,4 +23,10 @@ Eu tenho 20 anos, originalmente de São Paulo/SP, mas morando atualmente em Biri
 <a href="https://www.linkedin.com/in/matheus-fukuyama-52317416b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+</br>
 
+<div>
+<a href="https://github.com/MatheusFukuyama">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFukuyama&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFukuyama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
