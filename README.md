@@ -3,6 +3,8 @@
 
 Eu tenho 20 anos, originalmente de São Paulo/SP, mas morando atualmente em Birigui/SP. Estou cursando o curso de engenharia da computação no IFSP (Instituo Federal de São Paulo). Estudo Desenvolvimento Web a mais de um ano e adoro desenvolver novos projetos.
 
+<div class="tenor-gif-embed" data-postid="14794084" data-share-method="host" data-aspect-ratio="1.50235" data-width="100%"><a href="https://tenor.com/view/computer-nerds-geeky-coding-hack-gif-14794084">Computer Nerds GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 ### Ferramentas e Tecnologias
 
