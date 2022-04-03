@@ -1,7 +1,13 @@
 ## Olá, me chamo Matheus Shinji Fukuyama! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Eu tenho 20 anos, originalmente de São Paulo/SP, mas morando atualmente em Birigui/SP. Estou cursando o curso de engenharia da computação no IFSP (Instituo Federal de São Paulo). Estudo Desenvolvimento Web a mais de um ano e adoro desenvolver novos projetos. 
+Eu tenho 20 anos, originalmente de São Paulo/SP, mas morando atualmente em Birigui/SP. Estou cursando o curso de engenharia da computação no IFSP (Instituo Federal de São Paulo). Estudo Desenvolvimento Web a mais de um ano e adoro desenvolver novos projetos.
+
+<div>
+<a href="https://github.com/MatheusFukuyama">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### Ferramentas e Tecnologias
 
@@ -10,7 +16,8 @@ Eu tenho 20 anos, originalmente de São Paulo/SP, mas morando atualmente em Biri
 - 🔭 Atualmente estou trabalhando no projeto de Iniciação Científica Audire.
 - 🌱 Atualmente estou aprendendo React.js e PHP.
 - 👯 Ajudando a abertura da empresa júnior da faculdade e ocupando a posição de diretor de projetos.
-- 🤔 Algumas curiosidades sobre mim é que adoro animes e sair com os meus amigos.
+- �:heart: Algumas curiosidades sobre mim é que adoro ver animes :movie_camera:, sair com os meus amigos:dancers: e claro programar
+     enquanto ouço uma boa música:musical_note:.
 - 💬 Pergunte-me sobre ...
  
           
