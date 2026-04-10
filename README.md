@@ -1,7 +1,7 @@
 ## Olá, me chamo Matheus Shinji Fukuyama! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Eu tenho 20 anos, originalmente de São Paulo/SP, mas morando atualmente em Birigui/SP. Estou cursando o curso de engenharia da computação no IFSP (Instituo Federal de São Paulo). Estudo Desenvolvimento Web a mais de um ano e adoro desenvolver novos projetos.
+Eu tenho 25 anos, originalmente de São Paulo/SP. Graduado no curso de engenharia da computação no IFSP (Instituo Federal de São Paulo). Estudo  Desenvolvimento Web a mais de 3 anos e adoro desenvolver novos projetos.
 
 
 <p align="center">
